@@ -1,0 +1,2 @@
+O teste de unidade é realizado isoladamente do resto do sistema, enquanto o teste funcional de um sistema envolve testes que avaliam as funções que o sistema deve executar. 
+O teste funcional é realizado sem qualquer conhecimento do funcionamento interno do sistema, já para o teste de unidade é necessário conhecimento do objeto (classe, método, etc) a ser testado.
